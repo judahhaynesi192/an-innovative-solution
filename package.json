@@ -1,0 +1,26 @@
+{
+"name": "a-multifunctional-application",
+"version": "1.0.0",
+"description": "a multifunctional application designed to streamline productivity and enhance collaboration within teams",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/judahhaynesi192/a-multifunctional-application.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "judahhaynesi192",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
